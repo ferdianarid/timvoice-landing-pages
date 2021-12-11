@@ -15,7 +15,7 @@
 						</div>
 						<!-- Button Primary / Call to Action -->
 						<div class="w-full md:w-[50%]">
-							<NuxtLink to="/auth/login" class="font-bold no-underline inline-block bg-blue-800 text-white border-none text-sm px-4 py-3 mr-3 leading-none bg-white border rounded text-blue-800  hover:border-transparent mt-4 sm:mt-0">Get Started</NuxtLink>
+							<NuxtLink to="/auth/login" class="font-bold no-underline inline-block bg-blue-800 text-white border-none text-sm px-4 py-3 mr-3 leading-none bg-white border rounded  hover:border-transparent mt-4 sm:mt-0">Get Started</NuxtLink>
 						</div>
 					</div>
 				</div>

@@ -33,7 +33,7 @@
                             <NuxtLink to="/auth/login" class="font-bold no-underline inline-block border-none text-sm px-4 py-3 mr-3 leading-none bg-white border rounded text-blue-800  hover:border-transparent mt-4 sm:mt-0">Login</NuxtLink>
 
                             <!-- Get Started Button -->
-                            <NuxtLink to="/auth/login" class="px-4 py-2 font-bold no-underline inline-block bg-blue-800 text-white border-none text-sm px-4 py-3 mr-3 leading-none bg-white border rounded text-blue-800  hover:border-transparent mt-4 sm:mt-0">Get Started</NuxtLink>
+                            <NuxtLink to="/auth/login" class="px-4 py-2 font-bold no-underline inline-block bg-blue-800 text-white border-none text-sm px-4 py-3 mr-3 leading-none bg-white border rounded  hover:border-transparent mt-4 sm:mt-0">Get Started</NuxtLink>
                             </div>
                      </div>
                      </nav>
