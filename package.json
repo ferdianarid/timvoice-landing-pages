@@ -21,7 +21,7 @@
     "@vue/test-utils": "^1.2.1",
     "babel-core": "7.0.0-bridge.0",
     "babel-jest": "^27.4.6",
-    "jest": "^27.5.0",
+    "jest": "^27.5.1",
     "postcss": "^8.4.6",
     "vue-jest": "^3.0.4"
   }
