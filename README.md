@@ -1,4 +1,4 @@
-# timvoice-nuxt-landing
+# Timvoice Product - Nuxt.js and Tailwind CSS
 
 ## Build Setup
 
