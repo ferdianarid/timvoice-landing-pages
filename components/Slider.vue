@@ -1,7 +1,7 @@
 <template>
   <div class="slider">
     <div class="slide-track2 gap-x-8">
-      <!-- same 4 slides doubled (duplicate)-->
+      <!-- same 4 slides doubled -->
       <div class="slide">
         <img src="../static/Partner/Client-Logo2.svg" alt="" />
       </div>
