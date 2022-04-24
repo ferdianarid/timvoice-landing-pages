@@ -1,4 +1,4 @@
-# Landing Page Timvoice Product
+## Landing Page Timvoice Product
 Landing page invoice product build with Nuxt js Vue and Tailwind CSS
 
 <img src="https://raw.githubusercontent.com/ferdianar/timvoice-nuxt-landing/master/static/preview.png" alt="preview" />
