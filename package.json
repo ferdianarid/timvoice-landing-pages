@@ -22,7 +22,7 @@
     "babel-core": "7.0.0-bridge.0",
     "babel-jest": "^28.1.0",
     "jest": "^28.0.1",
-    "postcss": "^8.4.12",
+    "postcss": "^8.4.13",
     "vue-jest": "^3.0.4"
   }
 }
